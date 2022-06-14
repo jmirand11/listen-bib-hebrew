@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/listen-bib-hebrew/static/css/main.073c9b0a.css",
+    "main.js": "/listen-bib-hebrew/static/js/main.ac78e0b5.js",
+    "static/js/787.6a87ab39.chunk.js": "/listen-bib-hebrew/static/js/787.6a87ab39.chunk.js",
+    "static/media/logo.svg": "/listen-bib-hebrew/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/listen-bib-hebrew/index.html",
+    "main.073c9b0a.css.map": "/listen-bib-hebrew/static/css/main.073c9b0a.css.map",
+    "main.ac78e0b5.js.map": "/listen-bib-hebrew/static/js/main.ac78e0b5.js.map",
+    "787.6a87ab39.chunk.js.map": "/listen-bib-hebrew/static/js/787.6a87ab39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ac78e0b5.js"
+  ]
+}
